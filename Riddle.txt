@@ -1,10 +1,10 @@
 THE RIDDLER
 
-The beginning of Eternity, 
-The End of time and space, 
-The beginnings of Every end, 
-The end of every place. 
-What am i?
+1.The beginning of Eternity, 
+2.The End of time and space, 
+3.The beginnings of Every end, 
+4.The end of every place. 
+5.What am i?
 
 1.I have lots to say but can never speak. 
 2.Knowledge is the thing I eat. 
@@ -12,3 +12,5 @@ What am i?
 4.And treasures of every kind for all those 
 5.That wish to visit me your hands are the ultimate key. 
 6.What am I?
+
+SHO, SHO
